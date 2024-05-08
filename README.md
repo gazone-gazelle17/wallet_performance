@@ -3,7 +3,7 @@
 #### Python 3 должен быть установлен.
 ## Установка:
 #### Клонирование репозитория.
-`git clone https://github.com/gazone-gazelle17/wallet_case`
+`git clone https://github.com/gazone-gazelle17/wallet_performance`
 
 `cd crypto_testcase`
 #### Активация виртуального окружения.
