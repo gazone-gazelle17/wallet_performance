@@ -6,7 +6,7 @@
 `git clone https://github.com/gazone-gazelle17/wallet_performance`
 
 `cd crypto_testcase`
-#### Активация виртуального окружения.
+#### Создание и активация виртуального окружения, установка зависимостей.
 `python3 -m venv venv`
 
 `source venv/bin/activate`
